@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Munna AI</string>
+    <string name="app_tagline">Bolo, Munna Karega!</string>
+    <string name="greeting_hindi">नमस्ते भाई! मैं मुन्ना हूँ। बताओ, क्या करना है?</string>
+    <string name="greeting_hinglish">Namaste Bhai! Main Munna hoon. Batao, kya karna hai?</string>
+    <string name="greeting_english">Hello Friend! I am Munna. Tell me, how can I help?</string>
+    <string name="mic_idle_hindi">बोलने के लिए माइक दबाएँ</string>
+    <string name="mic_listening_hindi">सुन रहा हूँ…</string>
+    <string name="mic_processing_hindi">आपकी बात समझ रहा हूँ…</string>
+    <string name="mic_done_hindi">काम पूरा हुआ!</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">AI Chat</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="shortcut_youtube">YouTube</string>
+    <string name="shortcut_whatsapp">WhatsApp</string>
+    <string name="shortcut_chrome">Chrome</string>
+    <string name="shortcut_files">Files</string>
+    <string name="recent_commands_title">हाल के कमांड्स (Recent Commands)</string>
+    <string name="clear_history">हिस्ट्री साफ़ करें (Clear History)</string>
+    <string name="notification_service_label">Munna AI Notification Reader</string>
+    <string name="floating_mic_channel_name">Munna Floating Microphone</string>
+    <string name="floating_mic_notification_title">मुन्ना फ्लोटिंग माइक चालू है</string>
+    <string name="floating_mic_notification_text">कभी भी बोलने के लिए स्क्रीन पर नीले माइक को दबाएँ या यहाँ से बंद करें।</string>
+</resources>
